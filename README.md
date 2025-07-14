@@ -1,37 +1,85 @@
 # Song Recommender System
 
-This repository contains a collection of scripts and data files for a Song Recommender System. The project is designed to help recommend songs based on various word lists, definitions, and data processing techniques.
+**Created by Caleb in September 2022. Uploaded to GitHub in July 2025.**
+
+---
+
+## Overview
+
+The Song Recommender System is a Python-based project that analyzes a dataset of songs and recommends similar tracks based on their features. It leverages data science and machine learning tools (NumPy, pandas, TensorFlow, Numba, etc.) to compute song similarities and generate recommendations. The project also includes scripts for processing word lists and definitions, which can be used for advanced filtering or educational features.
+
+---
+
+## Main Features
+
+- **Song Similarity Calculation:**  
+  The core notebooks (`Song Recommender System.ipynb` and `Song Recommender System 2!!.ipynb`) load a dataset (`data.csv`), filter songs by year, and compute a distance matrix between songs using their features. The system then finds and displays the most similar songs for each track.
+
+- **Efficient Computation:**  
+  Uses Numba’s JIT compilation (with CUDA support) to accelerate the calculation of pairwise song distances.
+
+- **Data Preparation Utilities:**  
+  Includes scripts (`dictionary_creator.py`, `dictmaka.py`, `list_of_words.py`) for generating and formatting word lists and definitions, which are stored in files like `final_words_array.txt` and `word_definitions.txt`.
+
+- **Extensive Vocabulary and Definitions:**  
+  The project contains large word lists and detailed definitions, which can be used for educational or filtering purposes.
+
+---
 
 ## Project Structure
 
-- `Song Recommender System.ipynb` / `Song Recommender System 2!!.ipynb`: Main Jupyter notebooks for the recommender system.
-- `data.csv`: Main data file containing song or word data.
-- `dictionary_creator.py`, `dictmaka.py`, `string_formatter.py`, `list_of_words.py`, `list sorter.py`: Python scripts for processing and formatting word lists and dictionaries.
-- `words.txt`, `more words.txt`, `final_words_array.txt`, `words_array.txt`, etc.: Various word lists used in the project.
-- `word_definitions.txt`, `word_definitions_array.txt`, `definitions_arrayFinal.txt`: Files containing word definitions.
-- `testing.py`: Script for testing components of the project.
+- **Jupyter Notebooks:**  
+  - `Song Recommender System.ipynb`  
+  - `Song Recommender System 2!!.ipynb`  
+  Main logic for loading data, computing similarities, and displaying recommendations.
 
-## Getting Started
+- **Data Files:**  
+  - `data.csv`: Main dataset of songs and their features.  
+  - `final_words_array.txt`, `words.txt`, `more words.txt`, etc.: Word lists for vocabulary features.  
+  - `word_definitions.txt`: Definitions for vocabulary words.
 
-1. **Clone the repository:**
+- **Utility Scripts:**  
+  - `dictionary_creator.py`, `dictmaka.py`, `list_of_words.py`: Scripts for generating and formatting word lists and definitions.
+
+---
+
+## How to Use
+
+1. **Clone the Repository:**
    ```bash
    git clone https://github.com/YOUR_GITHUB_USERNAME/song-recommender.git
    cd song-recommender
    ```
-2. **Install Python dependencies:**
-   (If any dependencies are required, add them to a `requirements.txt` file.)
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Run the notebooks or scripts:**
-   Open the Jupyter notebooks or run the Python scripts as needed.
 
-## Usage
-- Use the Jupyter notebooks to explore and run the song recommender logic.
-- Modify or extend the Python scripts to process new word lists or definitions.
+2. **Install Dependencies:**
+   - Make sure you have Python 3.7+ installed.
+   - Install required packages (NumPy, pandas, TensorFlow, Numba, ipywidgets, tabulate, etc.):
+     ```bash
+     pip install numpy pandas tensorflow numba ipywidgets tabulate
+     ```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+3. **Run the Notebooks:**
+   - Open `Song Recommender System.ipynb` or `Song Recommender System 2!!.ipynb` in Jupyter Notebook or JupyterLab.
+   - Run all cells to load the data, compute the similarity matrix, and view song recommendations.
+
+4. **(Optional) Generate/Update Word Lists:**
+   - Use the utility scripts to process or update word lists and definitions as needed.
+   - Example:
+     ```bash
+     python list_of_words.py
+     python dictionary_creator.py
+     ```
+
+---
+
+## Notes
+
+- The project was originally created in September 2022, but is being uploaded to GitHub in July 2025.
+- The code is designed for educational and experimental purposes. For large datasets, computations may take significant time and memory.
+- You can extend the system by adding new features, improving the recommendation logic, or integrating with music APIs.
+
+---
 
 ## License
-This project is open source and available under the [MIT License](LICENSE). 
+
+This project is open source and available under the MIT License. 
