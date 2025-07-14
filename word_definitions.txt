@@ -1,0 +1,580 @@
+"abject" means utterly hopeless, miserable, or wretched.
+"aberration" means a departure from what is normal, usual, or expected; a deviation from a standard.
+"abjure" means to renounce or reject formally; to recant or retract a previous statement or belief.
+"abnegation" means the denial and rejection of a particular thing; self-denial.
+"abrogate" means to abolish or annul by authority; to end or do away with something.
+"abscond" means to run away and hide, especially to avoid arrest or prosecution.
+"abstruse" means difficult to understand; obscure.
+"accede" means to give one's consent or agreement to a demand, proposal, or treaty.
+"accost" means to approach and speak to someone aggressively or insolently.
+"accretion" means the process of growing or increasing by gradual external addition.
+"acumen" means the ability to make good judgments and take quick decisions, typically in a particular domain.
+"adamant" means refusing to be moved or persuaded; unyielding.
+"admonish" means to express warning or disapproval to someone in a gentle and friendly way.
+"adumbrate" means to give a sketchy or general outline of something; to foreshadow.
+"adverse" means opposed to one's interests; harmful or unfavorable.
+"advocate" means to speak or write in support of something; to recommend or support publicly.
+"affluent" means having a great deal of money or wealth.
+"aggrandize" means to make something or someone greater or more important; to enhance the power, status or reputation of someone or something.
+"alacrity" means brisk and cheerful readiness; eagerness.
+"alias" means an assumed name or pseudonym.
+"ambivalent" means having mixed feelings or contradictory ideas about something or someone.
+"amenable" means willing to be led or directed; open to suggestions or influences.
+"amorphous" means having no definite shape or form; unformed.
+"anachronistic" means out of place in time; not in the correct historical or chronological order.
+"anathema" means a person or thing that one vehemently dislikes; a curse or something accursed.
+"annex" means to add or attach to a larger or more important thing; to appropriate or take control of something.
+"antediluvian" means of or belonging to the time before the biblical flood; extremely ancient.
+"antiseptic" means thoroughly clean and free of disease-causing organisms; used to clean wounds and prevent infection.
+"apathetic" means having or showing little or no emotion or enthusiasm; indifferent.
+"antithesis" means the exact opposite or direct contrast to something or someone.
+"apocryphal" means of doubtful authenticity; of questionable origin or not genuine.
+"approbation" means official or formal approval; praise or admiration.
+"arbitrary" means based on individual discretion or preference, rather than any inherent characteristic or set of principles; capricious.
+"arboreal" means of or relating to trees; living in trees.
+"arcane" means known or understood by only a few people with specialized knowledge; mysterious or secretive.
+"archetypal" means representing or embodying a particular type or ideal example; typical.
+"arrogate" means to claim or take something without justification or permission; to assume authority or a position of power.
+"ascetic" means relating to or characterized by self-discipline and self-denial; austere.
+"aspersion" means a damaging or derogatory remark or criticism; a false or misleading statement.
+"assiduous" means diligent and hardworking; persistent in doing something.
+"atrophy" means a wasting away or decrease in size or strength of an organ or tissue; a lack of use leading to deterioration.
+"bane" means a source of harm or ruin; a cause of misery or death.
+"bashful" means shy or timid; easily embarrassed.
+"beguile" means to deceive or mislead someone; to charm or captivate.
+"bereft" means deprived of something; left alone or lacking.
+"blandishment" means flattery or praise intended to persuade or coax someone.
+"bilk" means to cheat or defraud someone; to swindle or deceive.
+"bombastic" means using high-flown or bombastic language; pretentious.
+"cajole" means to persuade someone by flattery or promises; to coax or wheedle.
+"callous" means emotionally insensitive or indifferent; lacking in sympathy or compassion.
+"calumny" means false and malicious statements made to damage someone's reputation; defamation.
+"camaraderie" means a feeling of trust and good fellowship among people who spend a lot of time together; companionship.
+"candor" means the state of being honest and straightforward; the quality of being frank and open.
+"capitulate" means to surrender or give in to the demands or authority of another; to abandon resistance.
+"carouse" means to engage in boisterous and drunken revelry; to party or celebrate wildly.
+"carp" means to find fault or complain persistently about something; to nag or criticize.
+"caucus" means a meeting of members of a political party or group to select candidates or plan strategy; a group of people united by a common interest or purpose.
+"cavort" means to frolic or play in a lively and carefree manner; to behave recklessly or wildly.
+"circumlocution" means the use of many words where fewer would do, especially in order to be vague or evasive; a roundabout way of speaking.
+"circumscribe" means to set limits or boundaries around something; to restrict or confine within certain limits.
+"circumvent" means to outsmart or outmaneuver someone; to find a way around an obstacle or restriction.
+"clamor" means a loud and persistent noise or din; an insistent demand or expression of protest.
+"cleave" means to split or divide something along a natural line or seam; to adhere or cling closely.
+"cobbler" means a person who repairs shoes; a dessert made of fruit topped with a pastry or crumbly topping.
+"cogent" means clear, logical, and convincing; effectively persuasive.
+"cognizant" means aware or having knowledge of something; conscious or attentive.
+"commensurate" means proportionate or corresponding in size, degree, or amount; equivalent or appropriate.
+"complement" means something that completes or makes perfect; something that enhances or brings out the best in something.
+"compunction" means a feeling of guilt, remorse, or moral scruple; a twinge of conscience.
+"concomitant" means accompanying or happening at the same time as something else; associated or correlated.
+"conduit" means a channel or pipe for conveying water or other fluid; a medium through which something is transmitted or conveyed.
+"conflagration" means a large, destructive fire; an intense and widespread conflict or disturbance.
+"congruity" means the quality of being in agreement or harmony; consistency or compatibility.
+"connive" means to plot or scheme secretly, especially with a nefarious or dishonest intent; to cooperate in a secret or illegal way.
+"consign" means to give over, entrust or deliver into the hands of another; to assign or set aside for a specific purpose.
+"constituent" means a member of a constituency; a component or an ingredient of something.
+"construe" means to interpret or explain the meaning of something; to give a particular meaning or explanation to something.
+"contusion" means a bruise caused by a blow or injury; a mild injury to the soft tissue.
+"contrite" means feeling remorseful and sorry for one's actions; penitent.
+"contentious" means likely to cause argument or disagreement; controversial.
+"contravene" means to go against or violate a rule, law, or agreement; to act in opposition to something.
+"convivial" means fond of socializing and enjoying the company of others; friendly and sociable.
+"corpulence" means the state of being overweight or obese; excessive fatness.
+"covet" means to desire something that belongs to someone else; to envy or yearn for something.
+"cupidity" means a strong desire or greed, especially for wealth or possessions; avarice.
+"dearth" means a lack or scarcity of something; an inadequate supply.
+"debacle" means a complete failure or collapse; a disastrous event or outcome.
+"debauch" means to lead someone into immoral or excessive behavior; to corrupt or debase someone.
+"debunk" means to expose the falseness or hollowness of something; to disprove or discredit something.
+"defunct" means no longer in existence or functioning; extinct or extinct.
+"demagogue" means a political leader who seeks support by appealing to the emotions and prejudices of the people; a leader who exploits popular biases and prejudices.
+"denigrate" means to speak ill of or to defame; to disparage or belittle.
+"derivative" means something derived from another source; unoriginal or copied.
+"despot" means a ruler with absolute power; a tyrant or dictator.
+"diaphanous" means light, delicate, and translucent; sheer or gauzy.
+"didactic" means intended to instruct or teach; morally instructive.
+"dirge" means a funeral song or lament; a song or hymn of mourning.
+"disaffected" means discontented or resentful towards an established system or authority; rebellious.
+"discomfit" means to confuse or frustrate someone; to disconcert or put out of countenance.
+"disparate" means fundamentally different or distinct; unrelated or unconnected.
+"dispel" means to drive away or scatter; to cause to disappear.
+"disrepute" means a state of being held in low or poor estimation; a state of dishonor or infamy.
+"divisive" means causing or tending to cause division or disagreement; tending to create dissension.
+"dogmatic" means adhering to a set of principles or beliefs without considering other possibilities; inflexible or closed-minded.
+"dour" means gloomy or sullen; severe or stern in appearance or manner.
+"duplicity" means the state of being two-faced or deceitful; the act of being dishonest or deceitful.
+"duress" means coercion or compulsion by threat or force; the state of being forced to do something against one's will.
+"eclectic" means made up of various elements drawn from many sources; diverse or varied.
+"edict" means a decree or order issued by an authority; a command or directive.
+"ebullient" means enthusiastic and full of energy; effervescent or lively.
+"egregious" means particularly bad or offensive; glaringly obvious or conspicuous.
+"elegy" means a mournful poem or song; a lament for the dead.
+"elicit" means to draw out or bring forth; to extract or obtain something.
+"embezzlement" means the misappropriation or theft of funds or property entrusted to one's care; fraud or financial misconduct.
+"emend" means to correct or improve a text; to make changes or revisions to something.
+"emollient" means something that softens or soothes the skin; something that lessens or pacifies.
+"empirical" means based on observation or experiment; derived from experience or practice.
+"emulate" means to imitate or copy the actions or qualities of someone; to strive to equal or excel.
+"enervate" means to weaken or drain the strength of; to debilitate or enfeeble.
+"enfranchise" means to grant the right to vote or participate in the political process; to empower or liberate.
+"engender" means to cause or give rise to; to produce or bring about.
+"ephemeral" means lasting for a very short time; fleeting or transitory.
+"epistolary" means relating to or consisting of letters; written in the form of letters.
+"equanimity" means calmness and composure, even in difficult situations; mental or emotional stability.
+"equivocal" means open to more than one interpretation; ambiguous or unclear.
+"espouse" means to support or advocate for; to take up or embrace.
+"evanescent" means fleeting or disappearing quickly; ephemeral or transitory.
+"evince" means to show or demonstrate clearly; to reveal or indicate.
+"exacerbate" means to make worse or more intense; to aggravate or exacerbate.
+"exhort" means to urge or encourage strongly; to give advice or advice.
+"execrable" means utterly bad or detestable; worthy of condemnation or abhorrence.
+"exigent" means requiring immediate attention or action; pressing or urgent.
+"expedient" means convenient or advantageous, even if morally questionable; practical or pragmatic.
+"expiate" means to make amends or atone for a wrongdoing; to seek forgiveness or redemption.
+"expunge" means to delete or erase completely; to wipe out or obliterate.
+"extraneous" means not essential or relevant; unrelated or unnecessary.
+"extol" means to praise or glorify highly; to speak highly of or admire.
+"extant" means still in existence; not extinct or destroyed.
+"expurgate" means to remove or censor objectionable or offensive material; to purify or cleanse.
+"fallacious" means based on false or mistaken reasoning; misleadingly attractive or plausible.
+"fatuous" means foolish or senseless; inane or vacuous.
+"fetter" means to restrain or confine; to shackle or encumber.
+"flagrant" means glaringly obvious or conspicuous; outrageous or scandalous.
+"foil" means to defeat or thwart the plans of; to counterbalance or contrast with.
+"forbearance" means patience or self-control; the ability to wait or delay gratification.
+"fortuitous" means happening by chance or luck; accidental or unplanned.
+"fractious" means unruly or difficult to control; prone to cause trouble or conflict.
+"garrulous" means talkative or chatty, especially in a way that is long-winded or tedious; loquacious.
+"gourmand" means a person who takes great pleasure in eating and is often excessive in their consumption; a food lover.
+"grandiloquent" means using high-flown or elaborate language; bombastic or pretentious.
+"gratuitous" means given or done without charge or payment; unnecessary or unwarranted.
+"hapless" means unfortunate or unlucky; plagued by bad luck or misfortune
+"hegemony" means dominance or control, especially by one group or state over others; the preponderant influence of one group over others.
+"heterogenous" means composed of dissimilar or diverse elements; varied or diverse.
+"iconoclast" means a person who challenges or questions established beliefs or institutions; a rebel or non-conformist.
+"idiosyncratic" means peculiar or unique to a particular person or group; having characteristics that set it apart from others.
+"impecunious" means having little or no money; poor or indigent.
+"impetuous" means impulsively or recklessly acting or speaking; hasty or impulsive.
+"impinge" means to encroach or intrude upon; to have an effect or impact on something.
+"impute" means to attribute or assign something to a particular cause or source; to accuse or blame someone.
+"inane" means lacking sense or meaning; silly or pointless.
+"inchoate" means just beginning to form or develop; not fully formed or realized.
+"incontrovertible" means undeniable or indisputable; beyond dispute or question.
+"incumbent" means necessary or required by the nature of a situation; holding a particular office or position.
+"inexorable" means unyielding or relentless; unchangeable or unshakable.
+"inimical" means harmful or damaging; hostile or opposed.
+"injunction" means an order or command issued by a court or other authority; a prohibitory or mandatory direction.
+"inoculate" means to introduce a vaccine or other protective agent to a person or group to prevent disease; to protect or immunize.
+"insidious" means working or spreading harmfully in a subtle or gradual way; treacherous or cunning.
+"instigate" means to start or incite something, especially a problem or conflict; to provoke or stimulate.
+"insurgent" means a person who rises up or rebels against an established authority or government; a rebel or revolutionary.
+"interlocutor" means a person who takes part in a conversation or dialogue; a participant in a discourse.
+"intimation" means a hint or suggestion; a subtle or indirect indication.
+"inure" means to become accustomed or habituated to something, especially something unpleasant; to become hardened or indifferent.
+"invective" means abusive or insulting language; a verbal attack or denunciation.
+"intransigent" means refusing to compromise or change one's position; inflexible or uncompromising.
+"inveterate" means firmly established or long-standing; habitual or ingrained.
+"irreverence" means a lack of respect or reverence; a lack of seriousness or solemnity.
+"knell" means a sound or signal, especially a bell, indicating a death or a funeral; a sign or omen of impending doom.
+"laconic" means using few words; terse or succinct.
+"largesse" means generosity or liberality in giving; lavish or munificent.
+"legerdemain" means trickery or deception; sleight of hand or magic.
+"libertarian" means someone who believes in individual freedom and opposes government control; an advocate of free will.
+"licentious" means lacking moral restraint or disregarding sexual norms; promiscuous or immoral.
+"linchpin" means an element that holds something together; a crucial or essential element.
+"litigant" means a person who is involved in a legal dispute; a party to a lawsuit.
+"maelstrom" means a powerful, swirling or turbulent flow of water or air; a chaotic or tumultuous situation.
+"maudlin" means overly sentimental or emotional; mawkish or tearful.
+"maverick" means an independent or unorthodox person; a nonconformist or rebel.
+"mawkish" means overly sentimental or emotional; overly sweet or cloying.
+"maxim" means a principle or rule of conduct; a statement of general truth or wisdom.
+"mendacious" means lying or dishonest; deceitful or untruthful.
+"modicum" means a small or moderate amount; a limited or moderate quantity.
+"morass" means a complex or confusing situation; a bog or marsh.
+"mores" means the customs or social conventions of a particular group or society; the moral or ethical standards of a culture.
+"munificent" means very generous or liberal in giving; lavish or bountiful.
+"multifarious" means having many different forms or aspects; diverse or varied.
+"nadir" means the lowest point; the state of being at rock bottom.
+"negligent" means failing to take proper care or attention; careless or irresponsible.
+"neophyte" means a beginner or novice; someone new to a particular field or activity.
+"noisome" means offensive or disgusting; harmful or dangerous.
+"noxious" means harmful or dangerous to health; poisonous or toxic.
+"obdurate" means stubborn or unyielding; resistant to persuasion or change.
+"obfuscate" means to make something unclear or difficult to understand; to confuse or obscure.
+"obstreperous" means unruly or difficult to control; rowdy or boisterous.
+"officious" means overly eager to offer help or advice, especially when it is not wanted; intrusive or meddlesome.
+"onerous" means burdensome or difficult to bear; demanding or laborious.
+"ostensible" means appearing or seeming to be something; professed or pretended.
+"ostracism" means exclusion or rejection from a group or society; shunning or banishment.
+"palliate" means to alleviate or reduce the severity of something; to ease or lessen.
+"panacea" means a universal remedy or solution; a cure-all.
+"paradigm" means a model or example; a pattern or archetype.
+"pariah" means an outcast or social reject; a person who is shunned or rejected.
+"partisan" means a person who is strongly committed to a particular cause or group; a supporter or advocate.
+"paucity" means a small or insufficient amount; a scarcity or shortage.
+"peccadillo" means a minor or trivial mistake or offense; a minor or venial sin.
+"pecuniary" means relating to money or finance; monetary or financial.
+"pedagogue" means a teacher or instructor; an educator or tutor.
+"pellucid" means transparent or easy to understand; clear or lucid.
+"penurious" means excessively or extremely poor; miserly or stingy.
+"penury" means extreme poverty or destitution; a state of being impoverished or indigent.
+"perennial" means recurring or recurring year after year; persistent or long-lasting.
+"perfidious" means treacherous or faithless; disloyal or deceitful.
+"perfunctory" means done in a routine or mechanical way; cursory or superficial.
+"permeate" means to spread or permeate throughout; to penetrate or saturate.
+"pernicious" means extremely harmful or dangerous; deadly or destructive.
+"perspicacious" means having keen insight or understanding; perceptive or astute.
+"pertinent" means relevant or appropriate; pertinent or germane.
+"peruse" means to read or examine closely; to scrutinize or study.
+"pervade" means to spread or permeate throughout; to be present everywhere.
+"petulant" means peevish or irritable; moody or impatient.
+"philistine" means a person who is indifferent or hostile to culture and the arts; a narrow-minded or uncultured person.
+"picayune" means petty or insignificant; minor or trifling.
+"pied" means multicolored or variegated; having different colors or patterns.
+"pithy" means concise and meaningful; to the point or terse.
+"plasticity" means the ability to be shaped or molded; flexibility or adaptability.
+"plethora" means an excessive or overwhelming amount; a surplus or abundance.
+"plumb" means to measure the depth of something; to examine or explore thoroughly.
+"plutocracy" means a society or government ruled by the wealthy; a system of rule by the rich.
+"polemical" means related to or involving argument or controversy; polemical or contentious.
+"ponderous" means heavy or weighty; sluggish or unwieldy.
+"pragmatic" means practical or realistic; pragmatic or results-oriented.
+"prate" means to talk excessively or foolishly; to prattle or babble.
+"precarious" means uncertain or unstable; risky or perilous.
+"precipitate" means to bring about or cause something suddenly; to hasten or accelerate.
+"precipitous" means steep or steeply sloping; headlong or hasty.
+"preclude" means to make impossible or prevent; to rule out or eliminate.
+"predilection" means a preference or bias; a liking or partiality.
+"preempt" means to take the place of or supersede; to anticipate or forestall.
+"prevaricate" means to evade or avoid the truth; to equivocate or hedge.
+"primogeniture" means the right of the firstborn child, especially the first son, to inherit; the law of inheritance by the firstborn.
+"probity" means integrity or honesty; moral uprightness or righteousness.
+"proclivity" means a natural inclination or predisposition; a tendency or bias.
+"procrastinate" means to delay or postpone; to put off or hesitate.
+"prodigal" means wasteful or extravagant; profligate or lavish.
+"prodigious" means extraordinary or immense; remarkable or amazing.
+"profligate" means recklessly wasteful or extravagant; dissolute or dissolute.
+"progenitor" means an ancestor or forefather; a progenitor or originator.
+"proletarian" means a member of the working class; a laborer or blue-collar worker.
+"proliferate" means to increase rapidly in number or spread widely; to grow or expand.
+"promulgate" means to make known or widely publicize; to promulgate or announce.
+"propinquity" means proximity or closeness; nearness or proximity.
+"propitiate" means to make amends or gain favor; to appease or conciliate.
+"propitious" means favorable or advantageous; promising or auspicious.
+"propriety" means appropriateness or correctness; decorum or respectability.
+"prosaic" means dull or lacking in imagination; commonplace or ordinary.
+"protracted" means prolonged or extended; drawn-out or extended.
+"provident" means frugal or thrifty; providing for the future or anticipating needs.
+"provincial" means having a narrow or limited perspective; unsophisticated or parochial.
+"provisional" means temporary or provisional; conditional or dependent.
+"puerile" means childlike or immature; silly or trivial.
+"pugnacious" means inclined to fight or argue; combative or bellicose.
+"puissance" means power or strength; the ability to achieve or accomplish something.
+"punctilious" means attentive to detail or etiquette; meticulous or conscientious.
+"pundit" means a person who is an expert or authority in a particular field; a critic or commentator.
+"pusillanimous" means lacking courage or resolve; faint-hearted or timid.
+"quaff" means to drink deeply or heartily; to gulp or swallow.
+"quail" means to shrink or cower in fear; to lose courage or confidence.
+"qualified" means having the necessary abilities or qualifications; restricted or limited.
+"qualm" means a feeling of unease or doubt; a misgiving or reservation.
+"quandary" means a state of perplexity or uncertainty; a dilemma or predicament.
+"quell" means to suppress or put an end to; to quell or pacify.
+"quibble" means to argue about minor or insignificant details; to quibble or cavil.
+"quiescent" means at rest or inactive; dormant or passive.
+"quixotic" means idealistic or unrealistic; impractical or visionary.
+"quotidian" means everyday or commonplace; routine or ordinary.
+"raconteur" means a person skilled in telling stories or anecdotes; a raconteur or talker.
+"ramification" means a consequence or result; an implication or outcome.
+"rancor" means bitterness or resentment; animosity or ill will.
+"rapacious" means greedy or predatory; grasping or avaricious.
+"rarefy" means to make or become thin or less dense; to refine or purify.
+"raspy" means having a rough or harsh sound; hoarse or gravelly.
+"ratchet" means to increase or improve gradually; to advance or evolve.
+"recalcitrant" means disobedient or rebellious; stubborn or uncooperative.
+"recant" means to take back or withdraw a statement or belief; to retract or abjure.
+"reciprocate" means to respond in kind; to exchange or return something.
+"recumbent" means lying down or reclining; relaxed or at rest.
+"redoubtable" means worthy of respect or fear; formidable or intimidating.
+"refractory" means difficult to manage or control; stubborn or recalcitrant.
+"relegate" means to assign or consign to a lower place or status; to demote or banish.
+"relic" means an object or item that has survived from the past; a memento or keepsake.
+"remiss" means neglectful or careless; lax or inattentive.
+"renascent" means being reborn or rejuvenated; resurgent or emerging.
+"rend" means to tear or split apart; to rend or break.
+"renounce" means to give up or reject formally; to abandon or forsake.
+"repudiate" means to reject or refuse to accept something; to disown or renounce.
+"rescind" means to cancel or revoke something; to repeal or annul.
+"resignation" means acceptance of something without resistance; resignation or submission.
+"resilient" means able to recover quickly from difficulties; flexible or adaptable.
+"resolute" means determined or firm in purpose; resolved or unwavering.
+"resolve" means to make a firm decision or reach a solution; to resolve or settle.
+"resonant" means having a strong or deep sound; echoing or reverberating.
+"restive" means restless or difficult to control; impatient or uneasy.
+"resurrection" means the return to life or consciousness; the rebirth or resurgence.
+"reticent" means reserved or reluctant to speak; quiet or reticent.
+"retrench" means to cut back or reduce expenses; to economize or retrench.
+"reverent" means showing respect or veneration; reverent or devout.
+"rhetoric" means the art of effective or persuasive speaking or writing; rhetoric or oratory.
+"ribald" means crude or vulgar; ribald or bawdy.
+"ricochet" means to rebound or deflect off a surface; to ricochet or deflect.
+"rigor" means harshness or severity; rigor or strictness.
+"rile" means to make someone angry or upset; to rile or provoke.
+"roil" means to make something turbulent or chaotic; to roil or agitate.
+"roster" means a list of names or items; a roster or schedule.
+"rudimentary" means basic or elementary; undeveloped or primitive.
+"ruffian" means a violent or lawless person; a thug or bully.
+"ruminate" means to reflect or meditate deeply; to ponder or muse.
+"sagacity" means wisdom or good judgement; sagacity or discernment.
+"salacious" means lustful or obscene; lascivious or prurient.
+"salubrious" means promoting health or well-being; salubrious or beneficial.
+"sanction" means to approve or authorize something; to sanction or endorse.
+"sanguine" means optimistic or confident; sanguine or hopeful.
+"sartorial" means relating to tailoring or clothing; sartorial or fashionable.
+"saturnine" means gloomy or moody; sullen or dark.
+"saunter" means to walk in a relaxed or leisurely way; to saunter or stroll.
+"savant" means a person of great learning or expertise; a savant or scholar.
+"scintilla" means a small or faint trace; a scintilla or spark.
+"scion" means a descendant or heir; a scion or offspring.
+"scrupulous" means having strong moral principles; careful or thorough.
+"scuff" means to scrape or mar the surface; to scuff or damage.
+"sear" means to burn or scorch the surface; to sear or char.
+"secrete" means to produce and release a substance; to secrete or excrete.
+"sedentary" means involving little or no physical activity; sitting or stationary.
+"sedition" means conduct or language inciting rebellion or disobedience; sedition or insurrection.
+"seditious" means tending to incite rebellion or disobedience; seditious or revolutionary.
+"seemly" means appropriate or fitting; proper or respectable.
+"seminal" means highly original or influential; seminal or pioneering.
+"sententious" means tending to express oneself in a moralizing or aphoristic way; sententious or preachy.
+"serendipity" means the occurrence of fortunate events by accident or luck; serendipity or chance.
+"shard" means a piece of broken glass or pottery; a shard or fragment.
+"shibboleth" means a word or phrase that is used to identify a particular group or class; a shibboleth or catchphrase.
+"shirk" means to avoid or evade one's responsibilities; to shirk or neglect.
+"shoddy" means of poor quality or workmanship; shoddy or inferior.
+"shrewd" means astute or perceptive; shrewd or clever.
+"shuffle" means to move or walk in a shuffling manner; to shuffle or drag one's feet.
+"sinecure" means a job that requires little or no work; a sinecure or cushy job.
+"sinewy" means having a strong and muscular body; sinewy or wiry.
+"skiff" means a small boat or raft; a skiff or dinghy.
+"skit" means a short, humorous play or performance; a skit or sketch.
+"skullduggery" means deceitful or underhanded behavior; skullduggery or trickery.
+"skulk" means to move or act in a sneaky or secretive way; to skulk or lurk.
+"slake" means to satisfy or quench something; to slake or allay.
+"sleight" means a trick or deception; a sleight or maneuver.
+"slew" means a large number or amount; a slew or a lot.
+"sluggard" means a lazy or idle person; a sluggard or a sloth.
+"slur" means to speak or sing in a careless or indistinct way; to slur or mumble.
+"smattering" means a small or superficial amount of knowledge; a smattering or a sprinkle.
+"smirk" means to smile in a self-satisfied or mocking way; to smirk or sneer.
+"smolder" means to burn or burn slowly without flame; to smolder or simmer.
+"smooth" means to make smooth or even; to smooth or iron out.
+"smudge" means to smear or make dirty; to smudge or smock.
+"snicker" means to laugh quietly or under one's breath; to snicker or chuckle.
+"snipe" means to criticize or find fault with someone; to snipe or carp.
+"snivel" means to whine or complain; to snivel or whimper.
+"sobriety" means the state of being sober or clear-minded; sobriety or seriousness.
+"sodden" means saturated or soaked through; sodden or waterlogged.
+"solicitous" means showing concern or interest; solicitous or attentive.
+"solitude" means being alone or isolated; solitude or seclusion.
+"somatic" means relating to the body or physical; somatic or bodily.
+"somber" means dark or gloomy; somber or melancholy.
+"soporific" means tending to induce sleep; soporific or sleepy.
+"sordid" means dirty or squalid; sordid or vile.
+"sotto voce" means spoken in a low or quiet voice; sotto voce or hushed.
+"spartan" means simple or austere; spartan or severe.
+"spate" means a sudden or overwhelming flood; a spate or deluge.
+"spendthrift" means a person who spends money recklessly; a spendthrift or prodigal.
+"spindly" means thin or frail; spindly or leggy.
+"spinster" means an unmarried woman; a spinster or an old maid.
+"spontaneous" means done or acting without premeditation; spontaneous or impromptu.
+"sporadic" means occurring occasionally or in scattered instances; sporadic or infrequent.
+"spry" means active or lively; spry or agile.
+"spurious" means not genuine or authentic; spurious or false.
+"squander" means to waste or spend recklessly; to squander or dissipate.
+"squelch" means to suppress or put an end to; to squelch or quell.
+"staid" means serious or sedate; staid or sober.
+"stalwart" means loyal or dependable; stalwart or resolute.
+"stanch" means to stop or check the flow of something; to stanch or staunch.
+"stasis" means a state of balance or equilibrium; stasis or stability.
+"steep" means to soak or saturate; to steep or douse.
+"stentorian" means extremely loud or powerful; stentorian or thunderous.
+"stereotype" means a fixed or standardized image or idea; a stereotype or cliche.
+"stickler" means a person who insists on strict adherence to rules or standards; a stickler or perfectionist.
+"stigma" means a mark of shame or discredit; a stigma or blemish.
+"stint" means to be sparing or economical; to stint or skimp.
+"stipulate" means to specify or state as a condition; to stipulate or dictate.
+"stoke" means to add fuel or stir a fire; to stoke or fan.
+"stolid" means showing little or no emotion; stolid or impassive.
+"stoke" means to add fuel or stir a fire; to stoke or fan.
+"stratagem" means a clever or devious plan; a stratagem or tactic.
+"stratum" means a layer or level in a society or organization; a stratum or class.
+"strew" means to scatter or spread; to strew or sprinkle.
+"striate" means to mark or make lines on; to striate or streak.
+"strive" means to make a great effort; to strive or struggle.
+"strut" means to walk or stand in a proud or arrogant way; to strut or swagger.
+"stultify" means to make something ineffective or worthless; to stultify or cripple.
+"stymie" means to obstruct or block; to stymie or foil.
+"subpoena" means a legal order to appear in court or give testimony; a subpoena or summons.
+"subterfuge" means a deception or trick used to evade or mislead; a subterfuge or excuse.
+"subtlety" means the quality of being delicate or nuanced; subtlety or finesse.
+"succinct" means brief or concise; succinct or terse.
+"succor" means assistance or relief in times of hardship; succor or aid.
+"suffuse" means to fill or spread through; to suffuse or permeate.
+"sully" means to tarnish or defile; to sully or soil.
+"summation" means the total or final result; the summation or conclusion.
+"sumptuous" means lavish or luxurious; sumptuous or opulent.
+"sundry" means various or diverse; sundry or miscellaneous.
+"supercilious" means haughty or arrogant; supercilious or disdainful.
+"superficial" means shallow or surface-level; superficial or superficial.
+"superfluous" means excessive or unnecessary; superfluous or redundant.
+"superlative" means the highest degree or best example; superlative or unparalleled.
+"supplant" means to take the place of; to supplant or replace.
+"supple" means flexible or pliable; supple or limber.
+"suppliant" means asking humbly or earnestly; suppliant or beseeching.
+"supplicant" means one who supplicates or begs; a supplicant or petitioner.
+"suppress" means to prevent or restrain something; to suppress or quash.
+"suture" means to stitch or sew together; to suture or mend.
+"swarthy" means dark or dusky in color; swarthy or bronzed.
+"swelter" means to suffer from oppressive heat; to swelter or roast.
+"swerve" means to turn or deviate suddenly; to swerve or veer.
+"swig" means to drink in large gulps; to swig or gulp.
+"swindle" means to cheat or defraud someone; to swindle or scam.
+"sycophant" means a person who flatters or acts obsequiously for personal gain; a sycophant or toady.
+"syllogism" means a logical or deductive argument; a syllogism or inference.
+"sylvan" means relating to the woods or forest; sylvan or rustic.
+"symmetry" means balance or proportion; symmetry or harmony.
+"synod" means a meeting or council of religious leaders; a synod or assembly.
+"synoptic" means providing a general overview or summary; synoptic or comprehensive.
+"synthesis" means the combination or integration of parts to form a whole; synthesis or integration.
+"tacit" means unspoken or implied; tacit or inferred.
+"taciturn" means reserved or reticent in speech; taciturn or laconic.
+"tangential" means only slightly or indirectly related; tangential or peripheral.
+"tangy" means having a sharp or acidic taste; tangy or zesty.
+"tantamount" means equivalent or comparable; tantamount or equal.
+"tarnish" means to dull or discolor; to tarnish or corrode.
+"tarry" means to delay or linger; to tarry or dally.
+"taut" means tight or stretched; taut or tense.
+"tawdry" means gaudy or cheap; tawdry or tacky.
+"temerity" means boldness or recklessness; temerity or audacity.
+"temporal" means relating to time or the present world; temporal or worldly.
+"tenacity" means persistence or determination; tenacity or grit.
+"tenuous" means weak or flimsy; tenuous or fragile.
+"tepid" means lukewarm or unenthusiastic; tepid or halfhearted.
+"terse" means brief and to the point; terse or succinct.
+"testator" means a person who makes a will; a testator or testamentor.
+"theocracy" means a government ruled by religious leaders; a theocracy or ecclesiocracy.
+"therapeutic" means relating to healing or medicine; therapeutic or curative.
+"toady" means a person who flatters or acts obsequiously; a toady or sycophant.
+"tome" means a large or scholarly book; a tome or volume.
+"torpid" means sluggish or inactive; torpid or lethargic.
+"torque" means a twisting or turning force; torque or leverage.
+"tortuous" means winding or twisting; tortuous or circuitous.
+"tout" means to promote or advertise something; to tout or hype.
+"tractable" means easily managed or controlled; tractable or pliable.
+"traction" means a grip or hold; traction or purchase.
+"tranquility" means a state of peace or calm; tranquility or serenity.
+"transcendent" means surpassing or exceeding; transcendent or sublime.
+"transgression" means a violation or breach; a transgression or offense.
+"transient" means temporary or fleeting; transient or ephemeral.
+"transitory" means temporary or fleeting; transitory or short-lived.
+"transmute" means to change or transform; to transmute or metamorphose.
+"transparent" means easily seen through or understood; transparent or clear.
+"travail" means hard work or suffering; travail or labor.
+"treacly" means overly sweet or sentimental; treacly or syrupy.
+"tremulous" means trembling or shaking; tremulous or quivering.
+"trenchant" means keen or incisive; trenchant or cutting.
+"trepidation" means fear or anxiety; trepidation or apprehension.
+"tribulation" means trouble or hardship; tribulation or adversity.
+"truculence" means aggressiveness or hostility; truculence or ferocity.
+"truism" means a statement that is obviously true; a truism or commonplace.
+"tumescent" means swollen or distended; tumescent or turgid.
+"turbid" means cloudy or muddy; turbid or murky.
+"turgid" means swollen or distended; turgid or tumescent.
+"turpitude" means depravity or wickedness; turpitude or vileness.
+"ubiquitous" means present everywhere; ubiquitous or omnipresent.
+"ulterior" means hidden or underlying; ulterior or covert.
+"umbrage" means offense or resentment; umbrage or pique.
+"uncanny" means strange or mysterious; uncanny or eerie.
+"unctuous" means insincerely or overly smooth; unctuous or oily.
+"undergird" means to support or strengthen; to undergird or fortify.
+"underwrite" means to provide financial support or guarantee; to underwrite or fund.
+"undulate" means to move in a wave-like pattern; to undulate or ripple.
+"unfeigned" means genuine or sincere; unfeigned or authentic.
+"unfrock" means to remove the clerical status of a person; to unfrock or defrock.
+"ungainly" means awkward or clumsy; ungainly or clunky.
+"untenable" means not capable of being defended or sustained; untenable or indefensible.
+"untoward" means unexpected or unfortunate; untoward or inopportune.
+"upbraid" means to scold or reproach; to upbraid or berate.
+"urbane" means sophisticated or refined; urbane or polished.
+"usurious" means involving excessive or illegal interest; usurious or exorbitant.
+"utilitarian" means practical or useful; utilitarian or functional.
+"uxorious" means excessively devoted to one's wife; uxorious or doting.
+"vacillate" means to waver or change one's mind; to vacillate or oscillate.
+"vacuous" means empty or lacking in content; vacuous or hollow.
+"vague" means not clearly defined or specific; vague or ambiguous.
+"vainglorious" means boastful or conceited; vainglorious or self-aggrandizing.
+"valediction" means a farewell or goodbye; a valediction or leave-taking.
+"validate" means to confirm or verify; to validate or authenticate.
+"valor" means courage or bravery; valor or heroism.
+"vanquish" means to defeat or conquer; to vanquish or overcome.
+"vapid" means lacking in flavor or interest; vapid or dull.
+"variegated" means having different colors or patterns; variegated or multicolored.
+"vehemence" means intensity or passion; vehemence or fervor.
+"venal" means open to bribery or corruption; venal or mercenary.
+"veneer" means a thin layer covering a surface; a veneer or facade.
+"venerable" means deserving of respect because of age or achievement; venerable or respected.
+"venial" means minor or forgivable; venial or trivial.
+"vent" means to express or release; to vent or discharge.
+"veracity" means truthfulness or accuracy; veracity or honesty.
+"verdant" means green or lush; verdant or fertile.
+"verisimilitude" means the appearance of being true or real; verisimilitude or believability.
+"vernacular" means the language or dialect of a particular region or group; vernacular or idiom.
+"versatile" means able to adapt to many different functions or roles; versatile or adaptable.
+"verve" means energy or enthusiasm; verve or spirit.
+"vestige" means a trace or remnant; a vestige or relic.
+"vex" means to annoy or confuse; to vex or perplex.
+"viable" means capable of being successful or sustained; viable or feasible.
+"vicarious" means experienced through the actions of others; vicarious or surrogate.
+"vie" means to compete or struggle; to vie or contend.
+"vilify" means to defame or slander; to vilify or denigrate.
+"vindicate" means to clear or justify; to vindicate or absolve.
+"virulent" means extremely harmful or poisonous; virulent or toxic.
+"visceral" means relating to the inner organs or emotions; visceral or gut.
+"vitiate" means to corrupt or spoil; to vitiate or impair.
+"vituperate" means to berate or scold; to vituperate or denounce.
+"vogue" means a popular trend or style; vogue or fad.
+"volatile" means changeable or unpredictable; volatile or unstable.
+"volition" means the act of making a choice or decision; volition or will.
+"voluble" means talkative or fluent; voluble or garrulous.
+"voracious" means having a great appetite or desire; voracious or insatiable.
+"vouchsafe" means to grant or allow; to vouchsafe or concede.
+"waft" means to move lightly or gently; to waft or drift.
+"wag" means to move back and forth; to wag or sway.
+"wan" means pale or sickly looking; wan or pallid.
+"wanderlust" means a strong desire to travel; wanderlust or curiosity.
+"wane" means to decrease or fade away; to wane or decline.
+"wanton" means unprovoked or unjustified; wanton or gratuitous.
+"warren" means a network of underground tunnels; a warren or burrow.
+"wary" means cautious or suspicious; wary or leery.
+"welter" means a state of confusion or chaos; a welter or turmoil.
+"wheedle" means to persuade or cajole; to wheedle or coax.
+"whelp" means a young animal; a whelp or cub.
+"wily" means cunning or shrewd; wily or crafty.
+"winsome" means charming or engaging; winsome or captivating.
+"wistful" means longing or yearning; wistful or nostalgic.
+"wizened" means shriveled or withered; wizened or gnarled.
+"wont" means a habit or custom; a wont or routine.
+"worldly" means relating to the present world or material things; worldly or temporal.
+"wrath" means anger or fury; wrath or ire.
+"wreak" means to inflict or bring about; to wreak or cause.
+"wring" means to twist or squeeze; to wring or wrangle.
+"wry" means twisted or distorted; wry or ironic.
+"xenophobia" means fear or hatred of foreigners; xenophobia or racism.
+"yoke" means to join or connect; to yoke or harness.
+"yawn" means to open one's mouth wide and inhale deeply; to yawn or gape.
+"yeoman" means an agricultural worker or small farmer; a yeoman or peasant.
+"yokel" means an unsophisticated rural person; a yokel or bumpkin.
+"zealot" means an enthusiastic supporter or advocate; a zealot or fanatic.
+"zenith" means the highest point or peak; the zenith or summit.
+"zephyr" means a light or gentle breeze; a zephyr or wind.
+"zest" means enthusiasm or interest; zest or gusto.
